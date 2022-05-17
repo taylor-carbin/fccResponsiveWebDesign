@@ -1,0 +1,55 @@
+body {
+    font-family: 'EB Garamond', serif;
+    background: ;
+    color: ;
+  }
+  
+  header {
+    font-family: "Bebas Neue", sans-serif;
+    text-align: center;
+    color: #373635;
+    font-size: 60px;
+    letter-spacing: 7px;
+  }
+  
+  #img-div {
+    position: relative;
+    background: white;
+    padding: 45px 15px 15px 15px;
+  }
+  
+  img {
+    max-width: 100%;
+    height: auto;
+    position: relative;
+    display: block;
+    margin: auto;
+  }
+  
+  #img-caption {
+    text-align: center;
+    font-style: italic;
+    padding: 10px;
+  }
+  
+  #tribute-info {
+    font-size: 20px;
+    font-family: sans-serif;
+    width: 700px;
+    margin: auto;
+  }
+  
+  h2 {
+    text-align: center;
+  }
+  
+  ul {
+    font-size: 18px;
+  }
+  
+  footer {
+    font-family: sans-serif;
+    text-align: center;
+    font-size: 25px;
+    padding-bottom: 50px
+  }
